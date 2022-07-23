@@ -32,7 +32,7 @@
 <a href="mailto:dahirma@vcu.edu">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)</a>
+<a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=white&logo=GitHub&logoColor=FFFFFF&label=)</a>
 
 ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 
@@ -46,5 +46,5 @@
 
 ![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)
 
-![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Search+Console&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)
+![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)
 
