@@ -1,5 +1,5 @@
 ## Masrik Dahir
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
 
 ## GitHub Stats
 
