@@ -10,12 +10,12 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Masrik-Dahir&theme=dark" width="48%" >
 
   
-## Top Languages
+## Top Used Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrik-Dahir&layout=compact)
 
 
-## Tech Stack
+## Programming Skill Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
