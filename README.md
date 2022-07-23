@@ -9,16 +9,11 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=Masrik-Dahir&show_icons=true&theme=gotham" alt="Masrik-Dahir" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Masrik-Dahir&theme=dark" width="48%" >
- 
-### My Stackoverflow Stats
 
-<a href="https://stackoverflow.com/users/2509472/pbk1303"><img src="https://stackoverflow.com/users/flair/2509472.png" width="208" height="58" alt="profile for Pbk1303 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pbk1303 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-  
   
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masrik-Dahir&layout=compact)
 
 <!---
 Masrik-Dahir/Masrik-Dahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
