@@ -33,18 +33,13 @@
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=brown&logo=GitHub&logoColor=white&label=)</a>
-
-![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
- 
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-
-![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)
-
-![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)
+<a href="https://www.snapchat.com/add/masrik_dahir"![Snapchat](https://img.shields.io/static/v1?style=for-the-badge&message=Snapchat&color=222222&logo=Snapchat&logoColor=FFFC00&label=)</a>
+<a href="https://app.joinhandshake.com/stu/users/20195119">![Handshake](https://img.shields.io/static/v1?style=for-the-badge&message=Handshake&color=FF2F1C&logo=Handshake&logoColor=FFFFFF&label=)</a>
+<a href="https://play.google.com/store/apps/dev?id=7004386305580355924">![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)</a>
+<a href="https://twitter.com/masrik_dahir"![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/masrik_dahir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/UC6JyPjDH6oYUi_efCEPp6fw">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://www.researchgate.net/profile/Masrik-Dahir"![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)</a>
+<a href="https://scholar.google.com/citations?hl=en&authuser=2&user=TX_u0HgAAAAJ">![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)</a>
+<a href="https://www.masrikdahir.com/">![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)</a>
 
