@@ -39,7 +39,9 @@
 <a href="https://twitter.com/masrik_dahir">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.instagram.com/masrik_dahir/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UC6JyPjDH6oYUi_efCEPp6fw">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<a href="https://www.researchgate.net/profile/Masrik-Dahir"!>[ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)</a>
+<a href="https://www.researchgate.net/profile/Masrik-Dahir">![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)</a>
+
 <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=TX_u0HgAAAAJ">![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)</a>
+
 <a href="https://www.masrikdahir.com/">![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)</a>
 
