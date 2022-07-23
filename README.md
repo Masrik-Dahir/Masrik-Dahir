@@ -46,5 +46,5 @@
 
 ![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=)
 
-![Google Search Console](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Search+Console&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)
+![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Search+Console&color=458CF5&logo=Google+Search+Console&logoColor=FFFFFF&label=)
 
