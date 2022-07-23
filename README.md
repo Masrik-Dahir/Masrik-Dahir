@@ -1,8 +1,3 @@
-## Masrik Dahir
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
-- 🔭 Cyber Security Analyst, Fullstack Developer  
-- 💞️ I’m looking to collaborate on cool projects!
-- 📫 How to reach me: dahirma@vcu.edu
 ## My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=Masrik-Dahir&show_icons=true&theme=gotham" alt="Masrik-Dahir" width="45%" align="right"/>
