@@ -7,8 +7,8 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=kritika-pattalam&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=Masrik-Dahir&show_icons=true&theme=gotham" alt="Masrik-Dahir" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Masrik-Dahir&theme=dark" width="48%" >
  
 ### My Stackoverflow Stats
 
