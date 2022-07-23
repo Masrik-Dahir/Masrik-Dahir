@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Masrik-Dahir
-- 👀 I’m interested in cyber-security
-- 🌱 I’m currently learning solidity
+- 👀 I’m a cyber security analyst, and fullstack developer  
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me: dahirma@vcu.edu
 
