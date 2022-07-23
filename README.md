@@ -1,9 +1,8 @@
-## About Me
-- 👋 Hi, I’m @Masrik-Dahir
-- 👀 I’m a cyber security analyst, and fullstack developer  
+## Masrik Dahir
+- 👀 Cyber Security Analyst, Fullstack Developer  
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me: dahirma@vcu.edu
-
+- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
 ## My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=Masrik-Dahir&show_icons=true&theme=gotham" alt="Masrik-Dahir" width="45%" align="right"/>
