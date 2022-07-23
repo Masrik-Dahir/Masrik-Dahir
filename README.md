@@ -32,7 +32,7 @@
 <a href="mailto:dahirma@vcu.edu">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=white&logo=GitHub&logoColor=black&label=)</a>
+<a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=white&logo=GitHub&logoColor=brown&label=)</a>
 
 ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 
