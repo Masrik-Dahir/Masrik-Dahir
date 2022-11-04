@@ -31,7 +31,6 @@
 </p>
 
 ## Social Media
-<a href="mailto:dahirma@vcu.edu">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/masrik-dahir-2b79b2163/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/Masrik-Dahir">![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=brown&logo=GitHub&logoColor=white&label=)</a>
 <a href="https://www.snapchat.com/add/masrik_dahir">![Snapchat](https://img.shields.io/static/v1?style=for-the-badge&message=Snapchat&color=222222&logo=Snapchat&logoColor=FFFC00&label=)</a>
