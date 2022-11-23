@@ -1,6 +1,5 @@
 ## Masrik Dahir
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
-<iframe src="https://unstoppabledomains.github.io/namicorn-searchbar/#/frame" width="600" height="400" />
 
 ## GitHub Stats
 
